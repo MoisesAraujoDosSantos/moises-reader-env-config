@@ -1,0 +1,17 @@
+{
+    "name": "ipeweb/reader-env-config",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Moises\\ReaderEnvConfig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Moises Araujo dos Santos",
+            "email": "moisesaraujodossantos10@gmail.com"
+        }
+    ],
+    "require": {}
+}
