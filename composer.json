@@ -1,5 +1,5 @@
 {
-    "name": "ipeweb/reader-env-config",
+    "name": "moises/reader-env-config",
     "type": "library",
     "license": "MIT",
     "autoload": {
