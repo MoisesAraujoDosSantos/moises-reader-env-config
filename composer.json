@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Moises\\ReaderEnvConfig\\": "src/"
+            "Moises\\EnvConfig\\": "src/"
         }
     },
     "authors": [
@@ -13,5 +13,7 @@
             "email": "moisesaraujodossantos10@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^12.4"
+    }
 }
