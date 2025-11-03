@@ -47,7 +47,7 @@ class ConfigManager {
 
             
 
-            if(is_string($value) &&  !preg_match('/^[a-zA-Z0-9 _@.!=\-]+$/',$value)){
+            if(is_string($value) &&  !preg_match('/^[a-zA-Z0-9 _@.!=:;\-]+$/',$value)){
                 throw new InvalidFormatException("The array content
                  contains invalid characters. 
                  Only alphanumeric characters, spaces, hyphens, underscores, 

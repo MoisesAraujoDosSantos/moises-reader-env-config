@@ -2,7 +2,7 @@
 
 
 return [
-    'teste' => "valor teste",
+    'teste' => "valor;teste",
     'a' => false,
     'b' => true,
     'number' => 12345,
